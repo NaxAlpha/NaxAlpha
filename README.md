@@ -9,9 +9,10 @@
 	</a>
 </p>
 
-- 🤖 I work on **Cool AI Projects like:**
-  - Image/Video Generation using GANs especially [StyleGAN-3](https://github.com/NVLabs/stylegan3).
+- 🤖 I work on **Cool AI Projects:**
   - Text/Code Generation using LMs like [GPT-2/GPT-3](https://github.com/huggingface/transformers).
+  - Surgery of foundation models like [Stable Diffusion](https://github.com/CompVis/stable-diffusion).
+  - 
   - ...
 - 💪 My focus areas in ML are:
   - CNNs
@@ -29,14 +30,12 @@
 	<a href="https://pytorch.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 	</a>
-	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+	<a href="[https://www.docker.com/](https://kubernetes.io/)" target="_blank">
+		<img src="https://kubernetes.io/images/favicon.png" alt="kubernetes" width="40" height="40"/>
 	</a>
 	<a href="https://cloud.google.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 	</a>
-	<a href="https://aws.amazon.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 	</a>
 </p>
 
